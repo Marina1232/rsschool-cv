@@ -1,8 +1,8 @@
-#Maryna Shyneliova
+# Maryna Shyneliova
 
-###_врач оториноларинголог_
+### _врач оториноларинголог_
 
-##**_About me_**: Есть цель освоить новую для меня профессию - Front-end разработчик. Опыта работы в этой сфере нет. Стремлюсь и готова учиться и узнавать новое!
+## **_About me_**: Есть цель освоить новую для меня профессию - Front-end разработчик. Опыта работы в этой сфере нет. Стремлюсь и готова учиться и узнавать новое!
 
 **_Education:_**
 2015-2021 "Vitebsk State Order of Peoples' Friendship Medical University" , General Medicine Faculty
