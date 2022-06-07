@@ -18,3 +18,8 @@
 - HTML
 - CSS
 - JS
+
+**_Contact:_**
+
+- mob. number: +375294448229
+- email: marina.saiko.18@gmail.com
