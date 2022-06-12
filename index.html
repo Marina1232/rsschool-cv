@@ -44,10 +44,9 @@
       <section class="section" id="contacts">
         <h2 class="section__title">contacts</h2>
         <ul class="list">
-          <li class="contacts__item">Email:<span>marina.saiko.18@mail.com</span></li>
-          <li class="contacts__item">Telegram</li>
-          <li class="contacts__item">Discord</li>
-          <li class="contacts__item">Github</li>
+          <li class="contacts__item">Email:<span>marina.saiko.18@gmail.com</span></li>
+          <li class="contacts__item">Telegram: vi_saiko18</li>
+          <li class="contacts__item">Github: Marina1232</li>
         </ul>
       </section>
 
@@ -89,10 +88,24 @@
       </section>
 
       <section class="section" id="work">
-        <h2 class="section__title">work</h2>
-        <p class="section__text">
-          3rd Central District Clinical Clinic of the Oktyabrsky District, otorhinolaryngologist 2021-2022
-        </p>
+        <h2 class="section__title">code</h2>
+        <pre class="section__text">
+          <code>
+          function dataReverse(data) {
+           let partOfData = [];
+             
+           while (data.length >= 8) {
+            partOfData.push(data.splice(0, 8));
+           }
+           const reversedArr = partOfData
+            .reverse()
+            .join(',')
+            .split(',');
+              
+          return reversedArr.map(item => Number(item)); 
+          }
+          </code>  
+        </pre>
       </section>
     </div>
   </main>
